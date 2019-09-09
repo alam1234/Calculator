@@ -1,8 +1,8 @@
 This is a simple calculator test project.
 JUnit4 framework is used for unit testing.
 
-eclipse is used to compile and run the project.
-Java 1.8 version is used.
+Programming language Java of version 1.8 is used to solve the problem. 
+Eclipse is used to compile and run the project.
 
 Please follow below steps to run the JUnit4 test suite. 
 
